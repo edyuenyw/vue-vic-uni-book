@@ -1,3 +1,12 @@
+# Local development using Nuxt/Vue/Axios to connect to drupal back-end 
+
+[URL for BE vic-uni-book](https://github.com/edyuenyw/vic-uni-book)
+
+```bash
+# after following the setup start from Nuxt 3 Minimal Starter
+npm install axios
+```
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
